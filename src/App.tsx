@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
-import BlogForm from "./components/BlogFrom";
-import BlogList from "./components/BlogList";
-import SingleBlog from "./components/SingleBlog";
+import BlogForm from "./components/BlogFrom.tsx";
+import BlogList from "./components/BlogList.tsx";
+import SingleBlog from "./components/singleBlog.tsx";
 
 function App() {
   return (
@@ -10,6 +10,8 @@ function App() {
       <Route path="/blogs" element={<BlogList />} />
       <Route path="/blog/:id" element={<SingleBlog />} />
     </Routes>
+    
+
   );
 }
 
