@@ -1,0 +1,12 @@
+{
+  "blogs": [
+    {
+      "id": "6065",
+      "category": "Technology",
+      "title": "The Rise of AI Agents: How They Are Transforming Everyday Work",
+      "blogger_name": "Jay Singh",
+      "image": "https://images.unsplash.com/photo-1581091012184-5c8b7a09ae67",
+      "description": "Artificial Intelligence has moved beyond simple chatbots and recommendations. The real shift is coming from AI Agents—smart systems capable of performing tasks independently with minimal human instruction. From coding assistants that can build apps to automation agents that manage entire workflows, AI is now becoming a co-worker rather than just a tool. These agents learn from patterns, handle complex logic, and work 24/7 without errors. Companies are integrating AI agents into customer support, marketing automation, and product development, dramatically reducing operational costs. For developers and job seekers, learning Python, FastAPI, and agentic AI tools has become a high-value skill. This rise of intelligent agents is opening opportunities for both businesses and engineers who adapt early."
+    }
+  ]
+}
